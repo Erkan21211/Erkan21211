@@ -1,6 +1,6 @@
 # 👋 Hey, ik ben Erkan.
 
-💻 **Software Developer in opleiding**  
+💻 **Software Developer (in opleiding)**  
 🎓 Associate degree Software Development  
 🌍 Gebaseerd in Nederland
 
